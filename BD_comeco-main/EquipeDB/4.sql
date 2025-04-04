@@ -1,0 +1,1 @@
+alter table contratos add constraint pk_contrato primary key(cdTime, cdJogador);
